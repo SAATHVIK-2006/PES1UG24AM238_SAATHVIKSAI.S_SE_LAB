@@ -79,7 +79,7 @@
 |---|---|---|
 | Bandit issues | 8 | 0 |
 | Flake8 issues | 21 | 0 |
-| Pylint score | 4.83/10 | ~10.00/10 |
+| Pylint score | 4.83/10 | 9.9/10 |
 
 ---
 
